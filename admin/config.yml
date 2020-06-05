@@ -12,6 +12,10 @@ media_library:
   config:
     cloud_name: andyxmas
     api_key: 332154156254211
+    default_transformations:
+      - - fetch_format: auto
+          quality: auto
+          crop: scale
 
 collections:
   # Our blog posts
