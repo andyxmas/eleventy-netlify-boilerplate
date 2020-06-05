@@ -9,6 +9,6 @@ tags:
 ---
 Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-![A sample inlined image](https://res.cloudinary.com/andyxmas/image/upload/v1591390045/kalen-emsley-Bkci_8qcdvQ-unsplash_dwe93d.jpg)
+![A sample inlined image](https://res.cloudinary.com/andyxmas/image/upload/v1591390518/joshua-earle--87JyMb9ZfU-unsplash_c3vuma.jpg)
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
